@@ -1,0 +1,43 @@
+.logo {
+    text-align: center;
+}
+
+.box1 {
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.yan {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #7EE5DA;
+    width: 800px;
+}
+
+.box3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #70CCC2;
+    width: 600px;
+}
+
+.box4 {
+    text-align: center;
+    background-color: #62B3AA;
+    width: 800px;
+}
